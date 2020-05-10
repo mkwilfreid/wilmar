@@ -159,7 +159,7 @@ textarea:focus {
 }
 
 .push-down {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 /* Back to top button */
@@ -230,7 +230,7 @@ div#preloader {
 }
 
 .area-padding {
-  padding: 8em 20px 10px 20px;
+  padding: 5em 20px 70px 20px;
 }
 
 .area-padding-3 {
@@ -497,9 +497,9 @@ div#preloader {
   3. About Area
 --------------------------------*/
 
-#about, #services, #contact{
+/* #about, #services, #contact{
   height: 80%;
-}
+} */
 .about-area {
   background-color: #f9f9f9;
 }
