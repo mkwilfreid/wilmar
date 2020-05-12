@@ -24,11 +24,11 @@
   12. Testimonials area
   13. Review Area
   14. Quote area
-  15.Footer Area
-  16.Home Page-2 Area
-  17.Home Page 3  CSS
-  18.Blog CSS
-  17.Blog Details CSS
+  15. Footer Area
+  16. Home Page-2 Area
+  17. Home Page 3  CSS
+  18. Blog CSS
+  17. Blog Details CSS
 
 -----------------------------------------------------------------------------------*/
 
@@ -524,6 +524,10 @@ div#preloader {
   color: #444;
 }
 
+#flag{
+  width: 25px;
+  height: 25px;
+}
 /*--------------------------------*/
 
 /* 4.Services Area
